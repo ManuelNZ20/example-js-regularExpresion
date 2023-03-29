@@ -1,0 +1,24 @@
+{
+  "name": "expresiones-regulares1",
+  "version": "1.0.0",
+  "description": "ejercicios de js de freecodecamp de expresiones regulares",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManuelNZ20/example-js-regularExpresion.git"
+  },
+  "keywords": [
+    "test",
+    "js",
+    "node"
+  ],
+  "author": "Manuel Navarro Zeta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManuelNZ20/example-js-regularExpresion/issues"
+  },
+  "homepage": "https://github.com/ManuelNZ20/example-js-regularExpresion#readme"
+}
